@@ -2,17 +2,16 @@
 
 ## Author Details
 
-**Author:** Gargee Singh
+**Author:** Diksha Agrawal
 
-**Registration Number:** 23BCE11449
+**Registration Number:** 23BEY10036
 
-**Application Number:** IN26011964
+**Application Number:** IN26010961
 
 **Batch Number:** 1A (1:00–3:00 PM)
 
-**Email ID:** gargee.23bce11449@vitbhopal.ac.in
+**Email ID:** dikagra123@gmail.com
 
-**Course:** B.Tech Computer Science and Engineering (CSE)
 
 **Assignment:** Assignment 5 – Decision Tree & Random Forest Classification
 
